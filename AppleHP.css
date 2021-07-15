@@ -702,39 +702,6 @@ body
     
   }
 
-/*#colour-selectors
-  {
-  display: flex;
-  justify-content: flex-end;
-  flex-wrap: wrap;
-  margin: 50px -100px;  get space between the colour selectors **fixed** 
-  height: 60px;
-  width: fit-content;
-  background: transparent;
-  font-family: 'Times New Roman', Times, serif !important;
-  font-weight: bold;
-  }
-
-  buy .desc2 {
-    display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
-    flex-direction: column;
-    margin: 250px -300px;
-    font-family: 'Times New Roman', Times, serif;
-    border-bottom: rgb(216, 216, 216);
-  }
- .centered_title
-  {
-    position: absolute;
-    top: -180px;
-    left: 100px;
-    transform: translate( 6%, 720%);
-    color: rgb(255, 255, 255);
-    font-size: 7vw;
-    opacity: 1;
-    font-family: 'Philosopher', sans-serif;
-  } */ 
   .sidebyside > img
   {
       width: 50%;
@@ -839,7 +806,6 @@ body
   width: 100%;
   height: auto;
   margin: auto;
-  border: 1px solid red;
   overflow: hidden;
   }
 }
